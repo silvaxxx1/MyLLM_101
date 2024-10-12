@@ -21,6 +21,12 @@ Here’s what we’ve accomplished so far:
 - **Model Development**: Created a transformer architecture from scratch using PyTorch.
 - **Training Loop Implementation**: Developed a robust training loop that handles the learning process.
 - **Weight Loading**: Integrated the ability to load pre-trained weights into the model for improved performance.
+- **Develop a User Interface**: Make it user-friendly with an engaging UI.
+
+<div align="center">
+  <img src="./Capturex.png" alt="Logo1" width="500" />
+</div>
+
 
 ### Upcoming Plans 🛠️
 
@@ -31,7 +37,7 @@ We’re just getting started! Here’s what’s on the horizon:
 - [ ] **Fine-Tune for Various Applications**: Optimize the model for specific tasks and industries.
 - [ ] **Implement LLaMA and BERT**: Expand the model arsenal with powerful architectures.
 - [ ] **Wrap Functionality in an API**: Create an easy-to-use API for seamless integration.
-- [ ] **Develop a User Interface**: Make it user-friendly with an engaging UI.
+
 
 ### Quick Start
 
